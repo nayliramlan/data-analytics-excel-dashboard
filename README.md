@@ -9,3 +9,4 @@ Superstore HQ wants to highlight the key findings of their financial analysis so
 - Created pivot tables for different values and readings
 - Merge all pivot tables and chart created into one dashboard and add slicers for easier navigations
 ## Dashboard
+<https://github.com/nayliramlan/data-analytics-portfolio/blob/main/EXCEL%20DASHBOARD%20SUPERSTORE%20HQ.png>
