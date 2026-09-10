@@ -1,2 +1,3 @@
-# data-analytics-portfolio
-Data Analytics project (dashboards) developed using Excel, Tableau and Power BI
+# SUPERSTORE HQ Data Analysis (Interactive Dashboard by Microsoft Excel)
+## Project Objective
+Superstore HQ wants to highlight the key findings of their financial analysis so that the directors and stakeholders can review them in the upcoming yearly review
